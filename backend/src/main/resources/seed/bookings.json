@@ -1,3 +1,0 @@
-[
-  { "id": "b1", "packageId": "p1", "packageTitle": "Dummy", "name": "Dummy User", "email": "abc.xyz@example.com", "phone": "+91 98765 43210", "adults": 2, "children": 0, "travelDate": "2026-09-14", "specialRequests": "Anniversary trip, late check-out if possible.", "status": "Confirmed", "totalPrice": 3798, "createdAt": "2026-06-01" }
-]
