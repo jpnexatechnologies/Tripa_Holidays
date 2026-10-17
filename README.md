@@ -94,11 +94,11 @@ Install the following tools before running the application:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <THIS_REPOSITORY_URL>
 cd TripaHolidays
 ```
 
-Replace `<YOUR_REPOSITORY_URL>` with your actual Git repository URL.
+Replace `<THIS_REPOSITORY_URL>` with your actual Git repository URL.
 
 ### 2. Configure the database
 
